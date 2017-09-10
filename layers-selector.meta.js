@@ -1,10 +1,10 @@
 ﻿// ==UserScript==
 // @id             iitc-plugin-layers-selector@eccenux
-// @name           IITC plugin: Layers selector
+// @name           IITC plugin: Quick selector of layers
 // @category       Misc
 // @version        0.0.1
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @description    [0.0.1] This plugin provides extra toolbar for accurate zoom to view all portals, ale links and whole region.
+// @description    [0.0.1] This plugin provides extra toolbar for quick showing/hiding portal layers.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
